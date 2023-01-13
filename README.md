@@ -1,2 +1,2 @@
 # HolArt_Tester
-Holovenets Artem - Teste automatyzujący
+Holovenets Artem - Tester automatyzujący
